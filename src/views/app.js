@@ -2,7 +2,7 @@ var Backbone = require('backbone');
 var $ = require('jquery');
 var _ = require('underscore');
 
-require("./app.css")
+require("./app.scss");
 
 
 var App = Backbone.View.extend({
